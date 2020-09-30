@@ -18,7 +18,7 @@
 
 
 ## Links to look at
-[Stelarc - Out Of Your Skin](https://www.youtube.com/watch?v=RSsmjcl-BjA).
+[Stelarc - Out Of Your Skin](https://www.youtube.com/watch?v=RSsmjcl-BjA)
 
 [This is a Magazine](http://www.thisisamagazine.com/)
 
