@@ -1,4 +1,7 @@
 # Code...Words? 
+<img src="intro.png">
+<img src="travis scott.png">
+<img src="minecraft.png">
 
 ## Theory
 
