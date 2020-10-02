@@ -11,4 +11,4 @@ having one main sketch.js file and other quote1/2/3/4/5.js files
 tinker with sketch.js index.html to link to the quote.js files as sources 
 
 ALTERNATIVE
-maybe create multiple canvases in one .js file and use keyPressed (spacebar
+maybe create multiple canvases in one .js file 
