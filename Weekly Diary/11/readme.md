@@ -18,3 +18,5 @@ TO DO:
 - Finish up last quote by Friedrich Kittler
 - To attempt combining sketches as individual canvases in a SINGLE .js file 
 
+<img src="karens comment.png">
+
