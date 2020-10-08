@@ -1,9 +1,8 @@
+var sketches = ["wb", "pv1", "jp", "pv2", "fk"];
+
 var valueX; 
 var valueY; 
-
-var sketches = ["wb", "pv1", "jp", "pv2", "fk"];
-var sketch1 = function(wb) {
-
+var sketch1 = function(wb) 
   wb.setup = function() {
     wb.createCanvas(windowWidth,windowHeight);
   textSize(26);
@@ -50,23 +49,23 @@ var sketch1 = function(wb) {
 
   wb.keyTyped = function(){
    if (key === '2' ){
-    pv1(); // or do i put it as 'sketch 1/2/3/4/5
+    sketch2(); // or do i put it as 'sketch 1/2/3/4/5
   }
   
   else if (key === '3' ){
-    jp();
+    sketch3();
   }
 
   else if (key === '4' ){
-    pv2();
+    sketch4();
   }
   
   else if (key === '5' ){
-    fk();
+    sketch5();
   }
   
   else {
-     background(0);
+    sketch1(); //no change 
 }
   
   }
