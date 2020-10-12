@@ -26,3 +26,5 @@ Andy's comment:
 
 great "gym" of different sketches. you clearly are building lots of "coding" muscles. Choose one to play with... at most develop into multiple paragraphs.
 
+note to self: add in gifs and images of WIP +reasoning behind the design 
+challenges etc 
