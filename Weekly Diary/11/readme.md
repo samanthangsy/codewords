@@ -20,3 +20,9 @@ TO DO:
 
 <img src="karens comment.png">
 
+## 8 October 2020 
+
+Andy's comment:
+
+great "gym" of different sketches. you clearly are building lots of "coding" muscles. Choose one to play with... at most develop into multiple paragraphs.
+
