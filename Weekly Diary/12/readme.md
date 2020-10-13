@@ -11,3 +11,9 @@ Kim Cascone, in his post-digital recognition manifesto, located glitch music in 
 - gps jammer output 
 - 4+2_stil live-Remix by Taylor Deupree 
 - Black Gun Red 
+
+## To do: 
+- create instructional landing page
+- introduce scrolling into the code 
+- input song 
+- piece together 3 paragraphs into the scrollable page 
