@@ -31,5 +31,6 @@ Towards the end, the user has two options: to keep surfing the catastrophe, embr
 WARNING: This work contains bright, flashing lights and visuals that may cause discomfort and/or seizures for those with photosensitive epilepsy. Viewer discretion is advised.
 
 Audio credit: gps jammer output by Kim Cascone 
+
 Kim Cascone is known for his paper The Aesthetics of Failure, which outlines the use of digital glitches and systemic failure in the creation of post-digital and laptop music. 
 
