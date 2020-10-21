@@ -35,4 +35,4 @@ Audio credit: gps jammer output by Kim Cascone
 Kim Cascone is known for his paper The Aesthetics of Failure, which outlines the use of digital glitches and systemic failure in the creation of post-digital and laptop music. 
 
 
-##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/)  |  [VIEW FINAL PRODUCT](https://samanthangsy.github.io/codewords/Final/EmbraceTheError/)
+##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/)  |  [EMBRACE THE ERROR](https://samanthangsy.github.io/codewords/Final/)
