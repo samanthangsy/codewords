@@ -1,5 +1,7 @@
 # EMBRACE THE ~~ERROR~~
 
+<img src="hero.jpg">
+
 [View work](https://samanthangsy.github.io/codewords/Final/EmbraceTheError/)
 
 EMBRACE THE ERROR takes you on a digital adventure through the words of philosophers, Walter Benjamin and Paul Virilio as quoted by Rosa Menkman in The Glitch Moment(um).
