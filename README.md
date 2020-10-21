@@ -1,8 +1,6 @@
-# HELLO, THIS IS SAM
+#### Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented.
 
-#### This is my SKO, where I have documented my learning, process, thoughts and resources collected throughout the 12 weeks of CODEWORDS. 
-
-###### You may navigate through the SKO using the following links:
+###### DIRECTORY
 
 [Week 01: Code...Words?](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/)
 
