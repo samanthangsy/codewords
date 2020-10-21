@@ -28,3 +28,6 @@
 [Killbox](http://delappe.net/play/killbox/)
 
 [Quake Friends](http://www.delappe.net/game-art/quakefriends/)
+
+
+##### [RETURN TO MAIN PAGE](https://samanthangsy.github.io/codewords/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)
