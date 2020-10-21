@@ -23,3 +23,5 @@ Maison Neue by Timo Gaessner released through Milieu Grotesque
 gps jammer output by Kim Cascone*
 
 *Kim Cascone is known for his paper The Aesthetics of Failure, which outlines the use of 				digital glitches and systemic failure in the creation of post-digital and laptop music.
+
+##### [VIEW CODE](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)  |  [RETURN TO MAIN PAGE](https://samanthangsy.github.io/codewords/)
