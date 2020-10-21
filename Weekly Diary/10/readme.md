@@ -29,3 +29,6 @@ If no clicks are made, the text continuously jitters within a limited variation 
 There is also a particular point that allows the user to freeze the text to be able to read the entire quote clearly. 
 
 Most of the clicks tends to shift the focus on the text “BURST THIS PRISON-WORLD…” and along with the jitters, it appears as though the text is trying to ‘burst’ out of the constraints of the window. 
+
+
+##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/)
