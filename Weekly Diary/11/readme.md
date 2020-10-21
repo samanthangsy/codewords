@@ -28,3 +28,6 @@ great "gym" of different sketches. you clearly are building lots of "coding" mus
 
 note to self: add in gifs and images of WIP +reasoning behind the design 
 challenges etc 
+
+
+##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/10/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/)
