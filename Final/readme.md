@@ -5,7 +5,8 @@
 [View work](https://samanthangsy.github.io/codewords/Final/EmbraceTheError/)
 
 ###### WRITE-UP:
-EMBRACE THE ERROR takes you on a digital adventure through the words of philosophers, Walter Benjamin and Paul Virilio as quoted by Rosa Menkman in The Glitch Moment(um).
+EMBRACE THE ERROR takes you on a digital adventure through the words of philosophers, Walter Benjamin and Paul Virilio as quoted by Rosa Menkman in [The Glitch Moment(um)](
+http://digbeyond.com/readme/view.php?id=104&course=Code%20Words). 
 
 This book piqued my interest in spontaneity in the accident form and got me thinking of some questions. Are glitches just technological phenomena or are they social constructions reactive to technological expectations? Why is there always a negative connotation to ‘failing’, when we can in turn choose to embrace the ‘accidental potential’ of it. I feel this applies to everything in life and thus is why glitch theory speaks to me. 
 
