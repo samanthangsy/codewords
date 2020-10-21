@@ -4,7 +4,7 @@ This is my SKO, where I have documented my learning, process, thoughts and resou
 
 You may navigate through the SKO using the following links
 
-[Week 01](https://samanthangsy.github.io/codewords/Week%01)
+[Week 01](https://samanthangsy.github.io/codewords/Weekly%Diary/01)
 
 
 
