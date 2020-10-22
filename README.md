@@ -1,8 +1,8 @@
-## SAM x CODEWORDS 2020
+# SAM x CODEWORDS 2020
 
-#### Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented.
+### Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented.
 
-##### DIRECTORY
+##### WEEKLY DIARY
 
 [Week 01: Code...Words?](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/)
 
@@ -35,6 +35,3 @@
 
 ##### HOUSE OF LEAVES PERFORMANCE (CHAPTER 7 OF THE NAVIDSON RECORD) 
 [View final cut](https://www.youtube.com/watch?v=leyVlwvDqNM&feature=youtu.be)
-
-
-
