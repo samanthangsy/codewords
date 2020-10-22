@@ -30,7 +30,11 @@
 
 [Week 13: Reflection](https://samanthangsy.github.io/codewords/Weekly%20Diary/13/)
 
-View major project [Embrace the Error](https://samanthangsy.github.io/codewords/Final/EmbraceTheError/)
+##### MAJOR PROJECT
+[Embrace the Error](https://samanthangsy.github.io/codewords/Final/)
+
+##### HOUSE OF LEAVES PERFORMANCE (CHAPTER 7 OF THE NAVIDSON RECORD) 
+[View final cut](https://www.youtube.com/watch?v=leyVlwvDqNM&feature=youtu.be)
 
 
 
