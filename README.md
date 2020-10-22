@@ -28,5 +28,9 @@
 
 [Week 12: Last class :(](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/)
 
+[Week 13: Reflection](https://samanthangsy.github.io/codewords/Weekly%20Diary/13/)
+
+View major project [Embrace the Error](https://samanthangsy.github.io/codewords/Final/EmbraceTheError/)
+
 
 
