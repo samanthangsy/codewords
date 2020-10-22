@@ -2,7 +2,7 @@
 
 #### Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented.
 
-###### DIRECTORY
+##### DIRECTORY
 
 [Week 01: Code...Words?](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/)
 
