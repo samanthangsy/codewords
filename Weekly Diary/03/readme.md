@@ -14,6 +14,6 @@ Often times, design is not the main focus in e-lits and its all about the poetry
 
 <img src="holloway.png">
 
-Individually, we made a character on sims each. I chose to model Holloway Roberts as seen above. 
+Individually, we made a character on sims each. I chose to model Holloway Roberts as seen above. Na was in charge of creating the house for filming. 
 
 ##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/)
