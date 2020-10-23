@@ -48,13 +48,5 @@ TO DO:
 
 <img src="karens comment.png">
 
-## 8 October 2020 
-
-Andy's comment:
-
-great "gym" of different sketches. you clearly are building lots of "coding" muscles. Choose one to play with... at most develop into multiple paragraphs.
-
-note to self: add in gifs and images of WIP +reasoning behind the design 
-challenges etc 
 
 ##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/)
