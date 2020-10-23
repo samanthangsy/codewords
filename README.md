@@ -24,7 +24,7 @@ Sam
 
 #### WEEKLY DIARY
 
-[Week 01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/)|Code...Words?
+var[Week 01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) = Code...Words?
 
 [Week 02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)|Modular typography
 
