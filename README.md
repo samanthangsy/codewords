@@ -24,9 +24,9 @@ Sam
 
 #### WEEKLY DIARY
 
-[Week 01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) | Code...Words?
+[Week 01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/)|Code...Words?
 
-[Week 02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) | Modular typography
+[Week 02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)|Modular typography
 
 [Week 03: Studying virtual identities + Intro to critical texts](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/)
 
