@@ -24,33 +24,34 @@ Nonetheless, It was a pleasure to conclude my last semester in uni with Andy and
 Digital hugs, 
 
 Sam 
+
 }
 
 #### WEEKLY DIARY
 
-var[Week01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) = "Code...Words?";
+var[Week01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) = "INTRODUCTION";
 
-var[Week02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) = "Modular typography"
+var[Week02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) = "MODULAR"
 
-var[Week03](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/) = Studying virtual identities + Intro to critical texts
+var[Week03](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/) = "VIRTUAL"
 
-var[Week04] Preloading assets + Intro to Github + Re-readings W.I.P](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/)
+var[Week04](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/) = "PRIMER"
 
-[Week 05: Re-readings screening + Intro to major project](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/)
+var[Week05](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/) = "SCREENING"
 
-[Week 06: Paper prototyping + Writing pseudocode ](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/)
+var[Week06](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/) = "PROTOTYPE" 
 
-[Week 07: Working on major project](https://samanthangsy.github.io/codewords/Weekly%20Diary/07/)
+var[Week07](https://samanthangsy.github.io/codewords/Weekly%20Diary/07/) = 
 
-[Week 08: Ongoing progress with major project](https://samanthangsy.github.io/codewords/Weekly%20Diary/08/)
+var[Week08](https://samanthangsy.github.io/codewords/Weekly%20Diary/08/) = 
 
-[Week 09: Iterations of sketches for major project](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/)
+var[Week09](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/) = 
 
-[Week 10: Milestone check](https://samanthangsy.github.io/codewords/Weekly%20Diary/10/)
+var[Week10](https://samanthangsy.github.io/codewords/Weekly%20Diary/10/) = "CHECKPOINT" 
 
-[Week 11: Final drafts](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/)
+var[Week11](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/) = "HURDLE" 
 
-[Week 12: Last class :(](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/)
+var[Week12](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/) = "FAREWELL"
 
 #### ASSIGNMENT 2: HOUSE OF LEAVES PERFORMANCE (CHAPTER 7 OF THE NAVIDSON RECORD) 
 [View final cut](https://www.youtube.com/watch?v=leyVlwvDqNM&feature=youtu.be)
