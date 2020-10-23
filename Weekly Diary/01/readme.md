@@ -15,6 +15,10 @@ We also talked about reading in the digital age and touched on the prevalence of
 
 ##### INTRO TO P5.JS 
 
+In our first live coding session, we were introduced to the basics of Processing using p5.js. Karen taughts us how to set canvas sizes, apply colours, lines, shapes and some simple interactivity using mouse positions. To apply our newfound knowledge, we were individually tasked to create a sketches for our intials. 
+
+Here are my sketches. 
+
 
 ##### Thoughts
 
@@ -23,8 +27,11 @@ We also talked about reading in the digital age and touched on the prevalence of
 
 ## Links to look at
 [Stelarc - Out Of Your Skin](https://www.youtube.com/watch?v=RSsmjcl-BjA)
+
 [This is a Magazine](http://www.thisisamagazine.com/)
+
 [Killbox](http://delappe.net/play/killbox/)
+
 [Quake Friends](http://www.delappe.net/game-art/quakefriends/)
 
 ##### SIMS FOR CODEWORDS 
