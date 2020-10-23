@@ -10,9 +10,9 @@ note: cmd+k is the shortcut to go to the data folder
 
 <img src="syntax.png">
 
-UPDATE: Github is actually awesome and I get why people use it. 
+UPDATE: Github is actually awesome and I get why people use it. I must admit that I have learnt the hard way after realising going back and forth through my notes and folders on my laptop really tedious and I should have stuck to Github earlier. 
 
-I'm not going to lie, Github scares me. I have always been taking down notes on my notes app on my laptop and taking a bunch of screenshots to look back on. That's what i'm the most comfortable with. Today we learnt the basics of github and here are some of my notes below. 
+Github scares me. I have always been taking down notes on my notes app on my laptop and taking a bunch of screenshots to look back on. That's what i'm the most comfortable with. Today we learnt the basics of github and here are some of my notes below. 
 
 - GitHub pages are public webpages hosted and easily published through GitHub.
 - MAKE WEEKLY FOLDERS ON GITHUB 
