@@ -1,4 +1,7 @@
-# CODING 4 REAL 
+# WEEK 10 
+
+## "CHECKPOINT" 
+
 
 5 sketches
 All using clicks to reveal text 
