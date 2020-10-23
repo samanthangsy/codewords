@@ -31,31 +31,30 @@ Sam
 
 var[Week01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) = "INTRODUCTION";
 
-var[Week02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) = "MODULAR"
+var[Week02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) = "MODULAR";
 
-var[Week03](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/) = "VIRTUAL"
+var[Week03](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/) = "VIRTUAL";
 
-var[Week04](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/) = "PRIMER"
+var[Week04](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/) = "PRIMER";
 
 var[Week05](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/) = "SCREENING"
 
-var[Week06](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/) = "IDEATION" 
+var[Week06](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/) = "IDEATION"; 
 
-var[Week07](https://samanthangsy.github.io/codewords/Weekly%20Diary/07/) = "PROTOTYPE"
+var[Week07](https://samanthangsy.github.io/codewords/Weekly%20Diary/07/) = "PROTOTYPE";
 
-var[Week08](https://samanthangsy.github.io/codewords/Weekly%20Diary/08/) = "EXPLORATION"
+var[Week08](https://samanthangsy.github.io/codewords/Weekly%20Diary/08/) = "EXPLORATION";
 
-var[Week09](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/) = "TINKERING" 
+var[Week09](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/) = "TINKERING";
 
-var[Week10](https://samanthangsy.github.io/codewords/Weekly%20Diary/10/) = "CHECKPOINT" 
+var[Week10](https://samanthangsy.github.io/codewords/Weekly%20Diary/10/) = "CHECKPOINT";
 
-var[Week11](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/) = "HURDLE" 
+var[Week11](https://samanthangsy.github.io/codewords/Weekly%20Diary/11/) = "HURDLE";
 
-var[Week12](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/) = "FAREWELL"
+var[Week12](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/) = "FAREWELL";
 
-#### ASSIGNMENT 2: HOUSE OF LEAVES PERFORMANCE (CHAPTER 7 OF THE NAVIDSON RECORD) 
-[View final cut](https://www.youtube.com/watch?v=leyVlwvDqNM&feature=youtu.be)
+var[Assignment2](https://www.youtube.com/watch?v=leyVlwvDqNM&feature=youtu.be) = "THE NAVIDSON RECORD CHAPTER 7";
 
-#### ASSIGNMENT 3: MAJOR PROJECT
-[Embrace the Error](https://samanthangsy.github.io/codewords/Final/)
+var[Assignment3](https://samanthangsy.github.io/codewords/Final/) = "EMBRACE THE ERROR";
+
 
