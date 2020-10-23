@@ -1,7 +1,7 @@
 # WEEK 4
 ## "PRIMER"
 
-###### PART 1: CODING
+### PART 1: CODING
 In this session, we learnt about 'function preload'. Where you import web based assets (images/fonts/external resources or libraries etc) in the sketch and declare these under this function. 
 
 note: cmd+k is the shortcut to go to the data folder
@@ -24,7 +24,7 @@ NO titles and credits
   coldera=loadFont('data/coldera.otf');
 }
 
-###### PART 2: GITHUB
+### PART 2: GITHUB
 
 cmd+shft+R HARD RELOAD 
 
@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1fzv_DJUaIDwXZWwGPU1fEEgP2pdBgS92/view
 
 https://simandy.github.io/codewords/processing/CODEWORDS13aug/
 
-###### RE-READINGS W.I.P
+### RE-READINGS W.I.P
 
 
 ##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/)
