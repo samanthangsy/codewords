@@ -27,7 +27,12 @@ ELSE stay in bed longer
 ENDIF mum has already shouted at me to get out of bed
 
 ```
-### TASK FOR MID-SEM BREAK
+
+These exercises help us with the next steps towards our major project. 
+
+### START OF MAJOR PROJECT 4 REAL 
+
+<img src="glitchmomentum.png">
 
 Our homework for the break is to create paper prototypes for the major project. I have chosen The Glitch Moment(um) by Rosa Menkman. My initial idea was to focus on the concluding paragraph of the text, but after re-reading the text again, I realised that Menkman had included these wonderful quotes by philisophers and theorists in the publication that I felt emphasised the meanings I had gathered from the book. 
 
