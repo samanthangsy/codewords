@@ -1,8 +1,11 @@
-# SAM x CODEWORDS 2020
+# //SAM x CODEWORDS 2020
 
+function setup() {
 ## Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented. You will find my statement and a directory of links to navigate through the weekly diary entries of SKO + final work for Assignment 2 and 3. 
+}
 
-#### SKO STATEMENT
+function draw() {
+#### SKO STATEMENT: ONGOING LEARNING 
 
 I chose to take Codewords with no expectations but to learn and sure enough, I did. I want to try to keep this short because I do have the tendency to ramble on and on so here is a summarised list of things I have learnt through this course. 
 
@@ -21,6 +24,7 @@ Nonetheless, It was a pleasure to conclude my last semester in uni with Andy and
 Digital hugs, 
 
 Sam 
+}
 
 #### WEEKLY DIARY
 
