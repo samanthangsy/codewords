@@ -24,13 +24,13 @@ Sam
 
 #### WEEKLY DIARY
 
-var[Week 01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) = Code...Words?
+var[Week01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) = "Code...Words?";
 
-[Week 02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)|Modular typography
+var[Week02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) = "Modular typography"
 
-[Week 03: Studying virtual identities + Intro to critical texts](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/)
+var[Week03](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/) = Studying virtual identities + Intro to critical texts
 
-[Week 04: Preloading assets + Intro to Github + Re-readings W.I.P](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/)
+var[Week04] Preloading assets + Intro to Github + Re-readings W.I.P](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/)
 
 [Week 05: Re-readings screening + Intro to major project](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/)
 
