@@ -30,6 +30,11 @@ ENDIF mum has already shouted at me to get out of bed
 
 These exercises help us with the next steps towards our major project. 
 
+### CODING GYM 
+
+On this week's episode of coding gym with Karen, we explored [controlling leading](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/fixed_it_was_a_dream). Ended up with a [glitch](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/tried_responsive_leading_ended_up_with_glitch)here. We also learnt how to input [random letters popping up](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/fixed_random_characters_with_fade) on the screen with a fade. This is with a [circle wiper](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/random_characters_no_fade_with_circle_wiper)and no fade.
+
+
 ### START OF MAJOR PROJECT 4 REAL 
 
 <img src="glitchmomentum.png">
