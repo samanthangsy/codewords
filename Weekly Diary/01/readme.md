@@ -48,9 +48,8 @@ Machinima
 [Quake Friends](http://www.delappe.net/game-art/quakefriends/)
 
 ### MY INITIAL SKETCHES
+view [S](https://samanthangsy.github.io/codewords/Weekly Diary/01/S/)
 
-
-### SIMS x HOUSE OF LEAVES
-
+view [N](https://samanthangsy.github.io/codewords/Weekly Diary/01/N/)
 
 ##### [RETURN TO MAIN PAGE](https://samanthangsy.github.io/codewords/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)
