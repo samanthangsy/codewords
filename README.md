@@ -1,12 +1,15 @@
 # SAM x CODEWORDS 2020
 
-### Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented.
+## Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented. You will find my statement and a directory of links to navigate through the weekly diary entries of SKO, along with links to final work for Assignment 2 and 3. 
 
-##### WEEKLY DIARY
+#### SKO STATEMENT
 
-[Week 01: Code...Words?](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/)
 
-[Week 02: Modular typography](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/)
+#### WEEKLY DIARY
+
+[Week 01](https://samanthangsy.github.io/codewords/Weekly%20Diary/01/) | Code...Words?
+
+[Week 02](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/) | Modular typography
 
 [Week 03: Studying virtual identities + Intro to critical texts](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/)
 
@@ -28,8 +31,8 @@
 
 [Week 12: Last class :(](https://samanthangsy.github.io/codewords/Weekly%20Diary/12/)
 
-##### MAJOR PROJECT
+#### MAJOR PROJECT
 [Embrace the Error](https://samanthangsy.github.io/codewords/Final/)
 
-##### HOUSE OF LEAVES PERFORMANCE (CHAPTER 7 OF THE NAVIDSON RECORD) 
+#### HOUSE OF LEAVES PERFORMANCE (CHAPTER 7 OF THE NAVIDSON RECORD) 
 [View final cut](https://www.youtube.com/watch?v=leyVlwvDqNM&feature=youtu.be)
