@@ -2,8 +2,14 @@
 
 ## "HURDLE"
 
-## Andy's comment
+## ANDY'S SUGGESTION 
+Today is the final class before submission next week. CRUNCH TIME!!! 
+
+After speaking to Karen and getting some help with combining the sketches in my code (thanks Karen for this), I had a conversation with Andy about my concept and he said that it was good to see the explorations of code but I could consider focusing on 1 or 2 to build up on. That might create a stronger outcome for me. 
+
 "great gym of different sketches. you clearly are building lots of "coding" muscles. Choose one to play with... at most develop into multiple paragraphs."
+
+I need to reconsider why I'm trying to show SO MUCH. 
 
 note to self: be reductive! 
 
