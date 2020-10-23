@@ -25,9 +25,10 @@ I'm not going to lie, Github scares me. I have always been taking down notes on 
 GitHub [tutorial](https://drive.google.com/file/d/1fzv_DJUaIDwXZWwGPU1fEEgP2pdBgS92/view) by Karen 
 
 ### SIMS x HOUSE OF LEAVES W.I.P
+<img src="scenes.png">
 <img src="subtitles.png">
-<img src="standards.png">
 <img src="cheats.png">
+<img src="standards.png">
 <img src="challenges.png">
 <img src="sims.png">
 
