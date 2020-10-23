@@ -1,4 +1,4 @@
-# Week 2
+# WEEK 02
 
 ## MODULAR TYPOGRAPHY 
 
