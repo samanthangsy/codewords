@@ -1,5 +1,5 @@
 # WEEK 01
-## Code...Words?
+## "INTRODUCTION"
 <img src="intro.png">
 
 We began the first session of code+words with some introductions by Andy and Karen. We were given an overview of what to expect and the format of our class in the coming weeks. They brought up some work they had done in their practice and when The Library of Nonhuman Books was mentioned, I was reminded of how I had helped Karen out during Melbourne Art Book Fair on 14 March this year and that was when the COVID-19 situation was worsening in Melbourne. I still remember how Karen asked me if I was planning to head back home to Singapore and I was like nah I reckon I wouldn't, and exactly a week later on 21 March, I did :) CRAZY times it is and look where we're at now...attending class online...who knows when things will go back to normal...or is this the NEW normal. 
