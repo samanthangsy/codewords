@@ -1,7 +1,7 @@
 # //SAM x CODEWORDS 2020
 
 function setup() {
-## Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks for Codewords have been documented. You will find my statement and a directory of links to navigate through the weekly diary entries of SKO + final work for Assignment 2 and 3. 
+## Hello! This is Sam's SKO, where learning, process, thoughts and resources collected over the course of 12 weeks have been documented. You will find my statement and a directory of links to navigate through my SKO below. This includes weekly diary entries and final outcomes for Assignment 2 and 3. 
 }
 
 function draw() {
