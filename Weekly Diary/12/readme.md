@@ -2,6 +2,8 @@
 
 ## "FAREWELL"
 
+![1](640.gif)
+
 We dedicated this last session of Codewords to uploading out final projects onto Github and creating gifs for the showcase website. I didn't realise creating gifs would be so challenging but I guess it's all about getting used to it. Anyway, getting to see everyone's work on that single website that Karen painstakingly coded right before out eyes (WOW) was so cool. I WAS BLOWN AWAY......SUCH TALENT IN THE CLASS REALLY. 
 
 #### EVERYTHING GOOD COMES TO AN END...BUT IT DOESN'T HAVE TO BE THE END
