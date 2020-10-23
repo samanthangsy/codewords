@@ -39,13 +39,13 @@ var[Week04](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/) = "PRIM
 
 var[Week05](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/) = "SCREENING"
 
-var[Week06](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/) = "PROTOTYPE" 
+var[Week06](https://samanthangsy.github.io/codewords/Weekly%20Diary/06/) = "IDEATION" 
 
-var[Week07](https://samanthangsy.github.io/codewords/Weekly%20Diary/07/) = 
+var[Week07](https://samanthangsy.github.io/codewords/Weekly%20Diary/07/) = "PROTOTYPE"
 
-var[Week08](https://samanthangsy.github.io/codewords/Weekly%20Diary/08/) = 
+var[Week08](https://samanthangsy.github.io/codewords/Weekly%20Diary/08/) = "EXPLORATION"
 
-var[Week09](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/) = 
+var[Week09](https://samanthangsy.github.io/codewords/Weekly%20Diary/09/) = "TINKERING" 
 
 var[Week10](https://samanthangsy.github.io/codewords/Weekly%20Diary/10/) = "CHECKPOINT" 
 
