@@ -7,43 +7,21 @@ In this session, we learnt about 'function preload'. Where you import web based 
 note: cmd+k is the shortcut to go to the data folder
 ** single quote vs double quote 
 
-textAlign (LEFT/CENTER/RIGHT)
-
-Deadline for test 2 re readings is on 
-
-Upload link before Thursday class then we have 1 extra day to tidy up 
-3-5min is good 
-Rough edit Thursday 
-Deadline Friday 
-
-NO titles and credits 
-
- function preload() {
-  inconsolata = loadFont('data/inconsolata.otf');
-  DIN = loadFont('data/DIN.otf');
-  coldera=loadFont('data/coldera.otf');
-}
-
 ### PART 2: GITHUB
 
-cmd+shft+R HARD RELOAD 
+UPDATE: Github is actually awesome and I get why people use it. 
 
-GitHub pages are public webpages hosted and easily published through GitHub.
+I'm not going to lie, Github scares me. I have always been taking down notes on my notes app on my laptop and taking a bunch of screenshots to look back on. That's what i'm the most comfortable with. Today we learnt the basics of github and here are some of my notes below. 
 
-MAKE WEEKLY FOLDERS ON GITHUB 
+- GitHub pages are public webpages hosted and easily published through GitHub.
+- MAKE WEEKLY FOLDERS ON GITHUB 
+- SKO CAN LOOK LIKE ANYTHING
+- Could be a directed reading page by page or everything laid out 
+- SKO is about CONTEXT 
+- Editing, contextualising, communicating 
+- Could be a hybrid of js,css,html 
 
-SKO CAN LOOK LIKE ANYTHING
-Could be a directed reading page by page or everything laid out 
-SKO is about CONTEXT 
-Editing, contextualising, communicating 
-Could be a hybrid of js,css,html 
-
-UPLOADING TO GITHUB (STEPS) 
-
-GitHub tutorial vid from Karen 
-https://drive.google.com/file/d/1fzv_DJUaIDwXZWwGPU1fEEgP2pdBgS92/view
-
-https://simandy.github.io/codewords/processing/CODEWORDS13aug/
+GitHub [tutorial](https://drive.google.com/file/d/1fzv_DJUaIDwXZWwGPU1fEEgP2pdBgS92/view) by Karen 
 
 ### RE-READINGS W.I.P
 
