@@ -2,10 +2,11 @@
 ## "PRIMER"
 
 ### PART 1: CODING
-In this session, we learnt about 'function preload'. Where you import web based assets (images/fonts/external resources or libraries etc) in the sketch and declare these under this function. 
+In this session, we learnt about 'function preload'. Where you import web based assets (images/fonts/external resources or libraries etc) in the sketch and declare these under this function. Karen led us through tutorials to set [type sizes](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/typetest), create [spinning texts](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/Accidental_String_Nuggie_Art) and include [fade](https://samanthangsy.github.io/codewords/Weekly%20Diary/04/Spinning_Text_with_fade/).
 
 note: cmd+k is the shortcut to go to the data folder
-** single quote vs double quote 
+
+
 
 ### PART 2: GITHUB
 
