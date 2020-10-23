@@ -6,8 +6,6 @@ In this session, we learnt about 'function preload'. Where you import web based 
 
 note: cmd+k is the shortcut to go to the data folder
 
-
-
 ### PART 2: GITHUB
 
 UPDATE: Github is actually awesome and I get why people use it. 
@@ -24,7 +22,8 @@ I'm not going to lie, Github scares me. I have always been taking down notes on 
 
 GitHub [tutorial](https://drive.google.com/file/d/1fzv_DJUaIDwXZWwGPU1fEEgP2pdBgS92/view) by Karen 
 
-### RE-READINGS W.I.P
+### SIMS x HOUSE OF LEAVES W.I.P
+
 
 
 ##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/)
