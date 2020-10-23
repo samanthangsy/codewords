@@ -26,9 +26,9 @@ Why I consider this modular:
 ### LETTERFORM SKETCH
 We were asked to tinker with someone else's code. I tinkered with Amy's while Jackie tinkered with mine. Here are the outcomes! 
 
-[Remix of Amy's](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/remix_of_amy_s_code/
+[Remix of Amy's](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/remix_of_amy_s_code/)
 
-[Jackie's remix of mine](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/jackies_remix_/
+[Jackie's remix of mine](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/jackies_remix_/)
 
 
 ### SIMS x HOUSE OF LEAVES 
