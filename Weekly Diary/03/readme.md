@@ -1,6 +1,6 @@
-## Week 3
+# Week 3
 
-#### Studying virtual identities + Intro to critical texts
+### Studying virtual identities + Intro to critical texts
 
 This week, we looked at avataristic behavior and virtual identities. Andy was toggling between avatars to represent him speaking in class. I found it amusing yet fairly disturbing almost watching the avatars mimic his speech. 
 
