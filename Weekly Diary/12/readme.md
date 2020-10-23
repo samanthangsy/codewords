@@ -1,4 +1,8 @@
-## Reductive Coding 
+# WEEK 12
+
+## "FAREWELL"
+
+Reductive Coding 
 
 ###### Options to consider: 
 - Stick to 4 separate layouts hidden and shown through keyTyped
