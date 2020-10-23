@@ -1,5 +1,5 @@
-## WEEK 4
-### CODING TYPOGRAPHY / RE-READINGS W.I.P 
+# WEEK 4
+## "PRIMER"
 
 ###### PART 1: CODING
 In this session, we learnt about 'function preload'. Where you import web based assets (images/fonts/external resources or libraries etc) in the sketch and declare these under this function. 
