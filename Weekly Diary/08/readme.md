@@ -6,6 +6,11 @@
 
 <img src="paperprototypes.png">
 
+![1](Paul.gif)
+
+![2](destroy.gif)
+
+
 We got to share our paper prototypes in class today and try to start developing code for our project. Andy reminded us to start with one thing and get that right first before moving on to something else. I think more often than not, I try to do too many things at one go and get too overwhelmed and so this was an important reminder for me. 
 
 ### EXPLORING ANOTHER IDEA 
