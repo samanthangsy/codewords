@@ -17,7 +17,7 @@ Thanks to Andy and Karen, I feel motivated and inspired to learn more and practi
 
 <3
 
-<img src=“a&k.png">
+<img src=“a&k.jpg">
 
 
 
