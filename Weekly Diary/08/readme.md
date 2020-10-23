@@ -32,7 +32,12 @@ NOTES ON NEW IDEA:
 
 I had been talking to Michael, a friend who was in Karen's class Slave to the Algorithm and he was feeling lost with his project too. We had a nice chat discussing our works trying to help each other over messenger this week. Here's some snippets from our conversation. 
 
-He shared some [inspiration]https://www.theartblog.org/2015/05/alphanumeric-systems-gone-awry-paul-chan-at-slought/ with me which he thought were similar to what I was thinking of, where letters were represented by graphics. 
+<img src="michael1.png">
+<img src="michael2.png">
+<img src="michael3.png">
+
+
+He shared some [inspiration](https://www.theartblog.org/2015/05/alphanumeric-systems-gone-awry-paul-chan-at-slought/) with me which he thought were similar to what I was thinking of, where letters were represented by graphics. 
 
 I think I feel much better after the discussion. Back to the drawing board now! 
 
