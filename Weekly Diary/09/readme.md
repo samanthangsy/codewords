@@ -6,14 +6,14 @@ I'm still feeling a bit directionless at this point and I'm getting stressed but
 
 Here is my work in progress for 2 out of 5 quotes. I'm using the textToPoint function Karen introduced us to this week in one of the sketches while the run function in the other. 
 
-<img src="tp1">
-<img src="tp2">
-<img src="tp3">
-<img src="tp4">
+<img src="tp1.png">
+<img src="tp2.png">
+<img src="tp3.png">
+<img src="tp4.png">
 
 
-<img src="run1">
-<img src="run2">
+<img src="run1.png">
+<img src="run2.png">
 
 
 
