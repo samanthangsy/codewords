@@ -27,8 +27,10 @@ Why I consider this modular:
 We were asked to tinker with someone else's code. I tinkered with Amy's while Jackie tinkered with mine. Here are the outcomes! 
 
 [Remix of Amy's](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/remix_of_amy_s_code/)
+<img src="remixA.png">
 
 [Jackie's remix of mine](https://samanthangsy.github.io/codewords/Weekly%20Diary/02/jackies_remix_/)
+<img src="remixJ.png">
 
 
 ### SIMS x HOUSE OF LEAVES 
