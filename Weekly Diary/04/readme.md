@@ -8,6 +8,8 @@ note: cmd+k is the shortcut to go to the data folder
 
 ### PART 2: GITHUB
 
+<img src="syntax.png">
+
 UPDATE: Github is actually awesome and I get why people use it. 
 
 I'm not going to lie, Github scares me. I have always been taking down notes on my notes app on my laptop and taking a bunch of screenshots to look back on. That's what i'm the most comfortable with. Today we learnt the basics of github and here are some of my notes below. 
@@ -23,8 +25,11 @@ I'm not going to lie, Github scares me. I have always been taking down notes on 
 GitHub [tutorial](https://drive.google.com/file/d/1fzv_DJUaIDwXZWwGPU1fEEgP2pdBgS92/view) by Karen 
 
 ### SIMS x HOUSE OF LEAVES W.I.P
-
-
+<img src="subtitles.png">
+<img src="standards.png">
+<img src="cheats.png">
+<img src="challenges.png">
+<img src="sims.png">
 
 ##### [PREVIOUS WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/03/)  |  [NEXT WEEK](https://samanthangsy.github.io/codewords/Weekly%20Diary/05/)
 
