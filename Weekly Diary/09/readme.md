@@ -6,6 +6,17 @@ I'm still feeling a bit directionless at this point and I'm getting stressed but
 
 Here is my work in progress for 2 out of 5 quotes. I'm using the textToPoint function Karen introduced us to this week in one of the sketches while the run function in the other. 
 
+<img src="tp1">
+<img src="tp2">
+<img src="tp3">
+<img src="tp4">
+
+
+<img src="run1">
+<img src="run2">
+
+
+
 ### WHAT I WANT TO DO 
 IMAGE REPRESENTING TEXT: Create a legend of some sort where every character represents a certain graphic (may be with specific x,y coordinates or not depending on how different the outcomes are).
 
