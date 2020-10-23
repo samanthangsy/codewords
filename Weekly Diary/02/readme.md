@@ -1,6 +1,7 @@
 # WEEK 02
 
 ## "MODULAR"
+<img src="mod1.png">
 
 This week, we began by hunting and gathering examples of modular typography and sharing our findings with one another [here](https://docs.google.com/presentation/d/1N2hAFp6si7UsVuPj1oMQ21_HHF858NbXZna0YQxOQio/edit#slide=id.g8ed135ac50_24_0). Since the studio was called code+words, we must not forget about the typography aspect of our creations, thus it was important to get to know the how words are made out of these basic units of type that build these letterforms just as how we start to get acquainted with code that makes up these digital realms we immerse ourselves in. 
 
