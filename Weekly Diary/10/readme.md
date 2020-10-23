@@ -2,6 +2,14 @@
 
 ## "CHECKPOINT"
 
+### W.I.P SHOTS 
+<img src="burst.png">
+<img src="wbtrails.png">
+<img src="greentrails.png">
+<img src="waves.png">
+
+
+
 ### Walter Benjamin
 
 Quote: 
