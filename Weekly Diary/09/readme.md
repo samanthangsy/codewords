@@ -1,3 +1,7 @@
+# WEEK 09 
+
+## "TINKERING" 
+
 ##### CURRENT CONCEPT FOR WORK
 -Basing my work off the context of how images consist of a string of text when you open it on textedit or notepad.
 
