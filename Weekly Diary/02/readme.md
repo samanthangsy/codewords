@@ -23,17 +23,17 @@ Why I consider this modular:
 - Graphical and illustrative sometimes texture based like in his home gate
 - Distinct system with tweaks
 
-#### LETTERFORM SKETCH
+### LETTERFORM SKETCH
 Here are my letterform sketches. 
 
 We were also asked to tinker with someone else's code. I tinkered with Amy's while Jackie tinkered with mine. Here are the outcomes! 
 
 
-#### SIMS x HOUSE OF LEAVES 
+### SIMS x HOUSE OF LEAVES 
 
 Last week Kristine, Na and I formed our group and this week we have 2 new members, Un Ian and Millie. Together, we have decided to take on the 7th passage of The Navidson Record for Assignment 2. What we will do this week is to have a read and get together on Teams before lesson 3, to share our thoughts and what's striking about the text to us. 
 
-#### LINKS TO LOOK AT 
+### LINKS TO LOOK AT 
 [Phase typeface](https://www.eliashanzer.com/phase/)
 
 [Stack overflow](https://stackoverflow.com/)
