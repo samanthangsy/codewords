@@ -7,15 +7,15 @@ function setup() {
 function draw() {
 #### SKO STATEMENT: ONGOING LEARNING 
 
-I chose to take Codewords with no expectations but to learn and sure enough, I did. I want to try to keep this short because I do have the tendency to ramble on and on so here is a summarised list of things I have learnt through this course. 
+I chose to take Codewords nervous but excited about code. All I wanted to do was learn and sure enough, I did. In fact, learning did not stop at technical skills and theoretical knowledge and as much as I would want to ramble on and one about my thoughts, here is a summarised list of my key learning points. 
 
-Sometimes we try to d
-Code teaches us to slow down and take things step by step. 
-Stripping everything down to basics 
-Lost in the aesthetics 
-functionality 
+- slow down and take things step by step
+- when in doubt, go back to basics
+- don't get caught up with trying to make everything look 'nice' 
+- it's good to be ambitious, but don't just try to do many things for the sake of doing it 
+- focus on the learning and not the outcome 
 
-Codewords surpassed my expectations because of how much I feel I have learnt from these long and intense sessions (but enjoyable, no doubt). Not only did we pick up new technical skills and better theoretical understanding of how reading is changing in this digital age we live in, this studio leaves me speculating the endless possibilities on technology's impact on design and our lives during the pandemic and post-pandemic. 
+Codewords surpassed my expectations because of how much I feel I have learnt from these long and intense sessions (but enjoyable, no doubt). Not only did we pick up new coding skills and got a better theoretical understanding of how reading is changing in this digital age, Codewords leaves me speculating the endless possibilities on technology's impact on design and our lives during the pandemic and post-pandemic. 
 
 15 October 2020: A bittersweet day. The last day of class for the week/in RMIT/forever for now. Concluding my degree remotely from my home country in Singapore feels weird, almost surreal and anti-climatic even. 
 
