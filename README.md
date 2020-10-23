@@ -7,7 +7,7 @@ function setup() {
 function draw() {
 #### SKO STATEMENT: ONGOING LEARNING 
 
-I chose to take Codewords nervous but excited about code. All I wanted to do was learn and sure enough, I did. In fact, learning did not stop at technical skills and theoretical knowledge and as much as I would want to ramble on and one about my thoughts, here is a summarised list of my key learning points. 
+I chose to take Codewords nervous but excited about code. All I wanted to do was learn and sure enough, I did. In fact, learning did not stop at technical skills and theoretical knowledge and as much as I would want to ramble on about my thoughts, here is a summarised list of my key learning points. 
 
 - slow down and take things step by step
 - when in doubt, go back to basics
@@ -15,11 +15,9 @@ I chose to take Codewords nervous but excited about code. All I wanted to do was
 - it's good to be ambitious, but don't just try to do many things for the sake of doing it 
 - focus on the learning and not the outcome 
 
-Codewords surpassed my expectations because of how much I feel I have learnt from these long and intense sessions (but enjoyable, no doubt). Not only did we pick up new coding skills and got a better theoretical understanding of how reading is changing in this digital age, Codewords leaves me speculating the endless possibilities on technology's impact on design and our lives during the pandemic and post-pandemic. 
+Though tiring, I enjoyed each long and intense Codewords session. I must admit that sometimes I found myself getting tired during class and it was a feat to get up at 7am and subsequently 6am for the last 2 sessions every thursday, but tried my best to get up and stay awake because I did not want to miss out on so much learning and conversations with my peers. I honestly feel that this was one of the classes I have learnt the most in out of my 2.5 years at RMIT. Not only did we pick up new coding skills and got a better theoretical understanding of how reading is changing in this digital age, Codewords leaves me speculating the endless possibilities on technology's impact on design and our lives during the pandemic and post-pandemic. 
 
-15 October 2020: A bittersweet day. The last day of class for the week/in RMIT/forever for now. Concluding my degree remotely from my home country in Singapore feels weird, almost surreal and anti-climatic even. 
-
-Nonetheless, It was a pleasure to conclude my last semester in uni with Andy and Karen and I would like to thank them both for being the most patient and understanding tutors I have met at RMIT, always willing to share their abundant knowledge with us :') 
+**15 October 2020**: A bittersweet day. The last day of class for the week/in RMIT/forever for now. Concluding my degree remotely from my home country in Singapore feels weird, almost surreal and anti-climatic even. Nonetheless, It was a pleasure to conclude my last semester in uni with Andy and Karen and I would like to thank them both for being the most patient and understanding tutors I have met at RMIT, always willing to share their abundant knowledge with us :') 
 
 Digital hugs, 
 
