@@ -4,7 +4,7 @@
 
 ![1](640.gif)
 
-We dedicated this last session of Codewords to uploading out final projects onto Github and creating gifs for the showcase website. I didn't realise creating gifs would be so challenging but I guess it's all about getting used to it. Anyway, getting to see everyone's work on that single website that Karen painstakingly coded right before out eyes (WOW) was so cool. I WAS BLOWN AWAY......SUCH TALENT IN THE CLASS REALLY. 
+We dedicated this last session of Codewords to uploading out final projects onto Github and creating gifs for the showcase website. I didn't realise creating gifs would be so challenging but I guess it's all about getting used to it. Anyway, getting to see everyone's work on that single website that Karen painstakingly coded right before our eyes (WOW) was so cool. I WAS BLOWN AWAY......SUCH TALENT IN THE CLASS REALLY. I still do feel my work could be refined and further considered so I plan on working on it again when I have the time. Regardless, I'm still proud of what I have managed achieve having never touched javascript in my life just as I'm proud of my peers who similarly felt like they would struggle with code. 
 
 #### EVERYTHING GOOD COMES TO AN END...BUT IT DOESN'T HAVE TO BE THE END
 This studio was hands down my favourite this semester and what I would look forward to each week. It was always a nice way to end my school week. While we were taught so much in class, Andy and Karen never failed to make activities and discussions fun and engaging. Kicking off everything with a re-reading of House of Leaves was such an interesting primer for our major project. Really enjoyed that! It got me intrigued about the book too, so I purchased it mid way through the semester.
